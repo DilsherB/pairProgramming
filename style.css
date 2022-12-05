@@ -135,7 +135,7 @@ ul > :first-child {
 }
 
 .ulDisplay {
-  display: flex;
+  display: float;
   list-style-type: none;
   gap: 15px;
   padding: 10px 0;
@@ -148,6 +148,7 @@ ul > :first-child {
   padding: 4px 12px;
   color: #6070ff;
   font-size: 12px;
+  float: inline-start;
 }
 
 .html {
