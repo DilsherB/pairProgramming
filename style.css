@@ -149,6 +149,7 @@ ul > :first-child {
   color: #6070ff;
   font-size: 12px;
   float: inline-start;
+  margin-left: 20px;
 }
 
 .html {
